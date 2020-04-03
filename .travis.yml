@@ -9,7 +9,7 @@ notifications:
   email:
     recipients:
       # - bunnyppl@gmail.com kenken's email :P
-      - ctgvbhjbugytfcghbjbugyfcgghjzzzkbgv@gmail.com
+      - ctgvbhjbugytaafcghbjbugyfcgghjzzzkbgv@gmail.com
     on_success: always
     on_failure: always
 branches:
